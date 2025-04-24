@@ -1,18 +1,42 @@
+# Photo Album App
 
-# flutter_staggered_grid_view
+A Flutter-based photo album application that allows users to view images, search for photos, and view them in full-screen mode with smooth transitions. The app utilizes caching for smooth performance, and images are loaded with an elegant shimmer effect before the final content is displayed.
 
-A new Flutter project.
+![Screenshot](./assets/screenshot.png)
 
-## Getting Started
+## Features
+- **Search functionality**: Search photos in the album.
+- **Full-screen viewing**: View images in full-screen mode with smooth transitions.
+- **Caching**: Uses `cached_network_image` to cache images for faster loading.
+- **Smooth transitions**: Elegant fade-in/fade-out transitions and shimmer effect for loading images.
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- **Flutter** - Framework for building natively compiled applications.
+- **Dio** - HTTP client for making API requests.
+- **BLoC (Cubit)** - State management solution.
+- **CachedNetworkImage** - Image caching to improve performance.
+- **Shimmer** - Loading skeleton for smooth loading effects.
+- **PhotoView** - To view photos in full-screen with pinch-to-zoom.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| **Main Screen** |
+|-----------------|
+| ![Main Screen](./assets/main_screen.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| **Full-Screen Photo View** |
+|----------------------------|
+| ![Full-Screen View](./assets/full_screen_view.png) |
 
+## Installation
+
+Follow these steps to set up the app locally:
+
+### Prerequisites
+Make sure you have Flutter installed on your machine. If not, follow the installation guide from the official Flutter website: [Flutter Installation](https://flutter.dev/docs/get-started/install)
+
+### 1. Clone the repository
+First, clone this repository to your local machine:
+```bash
+git clone https://github.com/yourusername/photo_album_app.git
+cd photo_album_app
