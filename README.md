@@ -37,5 +37,5 @@ Make sure you have Flutter installed on your machine. If not, follow the install
 ### 1. Clone the repository
 First, clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/photo_album_app.git
+git clone https://github.com/aruninf/photo_album_app.git
 cd photo_album_app
