@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# photo_album_app
-Photo album app built with Flutter. Browse, search, and view images in full-screen mode with smooth transitions and caching. Uses BLoC for state management and provides efficient image loading with Shimmer effects. Ideal for showcasing your skills in Flutter and clean architecture.
-=======
+
 # flutter_staggered_grid_view
 
 A new Flutter project.
@@ -18,4 +15,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
->>>>>>> ea6027e (upsplash photo api)
+
