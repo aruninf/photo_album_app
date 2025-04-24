@@ -2,7 +2,6 @@
 
 A Flutter-based photo album application that allows users to view images, search for photos, and view them in full-screen mode with smooth transitions. The app utilizes caching for smooth performance, and images are loaded with an elegant shimmer effect before the final content is displayed.
 
-![Screenshot](./assets/screenshot.png)
 
 ## Features
 - **Search functionality**: Search photos in the album.
