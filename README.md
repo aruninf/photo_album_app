@@ -20,13 +20,12 @@ A Flutter-based photo album application that allows users to view images, search
 
 ## Screenshots
 
-| **Main Screen** |
-|-----------------|
-| ![Main Screen](./assets/main_screen.png) |
+### Main Screen & Full-Screen Photo View
 
-| **Full-Screen Photo View** |
-|----------------------------|
-| ![Full-Screen View](./assets/full_screen_view.png) |
+| Screenshot 1 | Screenshot 2 |
+|--------------|--------------|
+| <img src="./assets/main_screen.png" width="300" height="600"> | <img src="./assets/full_screen_view.png" width="300" height="600"> |
+
 
 ## Installation
 
